@@ -1,0 +1,6 @@
+{
+  "name": "Diet Execution & Reflection Agent",
+  "description": "An expert digital nutritionist and behavioral psychologist agent that ingests user profiles and logs to generate adaptive evening reflection reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
